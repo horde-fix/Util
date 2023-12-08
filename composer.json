@@ -21,8 +21,8 @@
             "role": "developer"
         }
     ],
-    "version": "2.5.13",
-    "time": "2022-06-19",
+    "version": "2.5.13.1",
+    "time": "2023-12-08",
     "require": {
         "php": "^5.3 || ^7",
         "ext-dom": "*"
